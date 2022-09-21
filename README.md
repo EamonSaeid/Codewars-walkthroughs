@@ -9,6 +9,6 @@ I hope these notebooks can be beneficial to other learners - I have written them
 
 If you notice any errors in my notes or have anything to share which may be beneficial, please reach out to me through linkedin at https://www.linkedin.com/in/eamon-saeid-295188166/.
 
-Best wishes
+Best wishes<br>
 Eamon
 
